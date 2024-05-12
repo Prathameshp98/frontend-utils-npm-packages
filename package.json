@@ -1,5 +1,5 @@
 {
-  "name": "frontend-utils",
+  "name": "frontend-utilities",
   "version": "0.0.0",
   "description": "A library that provides every frontend solution",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Prathameshp98/frontend-treasure-npm-packages"
+    "url": "https://github.com/Prathameshp98/frontend-utils-npm-packages"
   },
   "keywords": [
     "React",
@@ -20,9 +20,9 @@
   "author": "Prathamesh Patil <prathameshpatil2812@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Prathameshp98/frontend-treasure-npm-packages/issues"
+    "url": "https://github.com/Prathameshp98/frontend-utils-npm-packages/issues"
   },
-  "homepage": "https://github.com/Prathameshp98/frontend-treasure-npm-packages#readme",
+  "homepage": "https://github.com/Prathameshp98/frontend-utils-npm-packages#readme",
   "devDependencies": {
     "typescript": "^5.4.5"
   },
