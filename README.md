@@ -1,4 +1,4 @@
-## Frontend Utils
+# Frontend Utils
 
 ## Installation
 * Git clone the project
