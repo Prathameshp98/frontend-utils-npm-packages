@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES5", // converts code to es5 in all browsers
+        "module": "CommonJS",
+        "declaration": true, 
+        "outDir": "./lib",
+        "strict": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "**/__test__/*"]
+}

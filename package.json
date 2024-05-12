@@ -1,0 +1,32 @@
+{
+  "name": "frontend-treasure",
+  "version": "0.0.0",
+  "description": "A library that provides every frontend solution",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prathameshp98/frontend-treasure-npm-packages"
+  },
+  "keywords": [
+    "React",
+    "components",
+    "npm"
+  ],
+  "author": "Prathamesh Patil <prathameshpatil2812@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prathameshp98/frontend-treasure-npm-packages/issues"
+  },
+  "homepage": "https://github.com/Prathameshp98/frontend-treasure-npm-packages#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
